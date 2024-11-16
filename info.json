@@ -1,11 +1,11 @@
 {
   "name": "flamethrower-turret-balance",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "title": "Flamethrower Turret Balance",
   "author": "DataCpt",
   "contact": "",
   "homepage": "",
   "description": "Balances (nerfs) flamethrower turret consumption by multiplying it to 4x the vanilla default. Configurable.",
-  "factorio_version": "1.1",
-  "dependencies": ["base >= 1.0"]
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
 }
