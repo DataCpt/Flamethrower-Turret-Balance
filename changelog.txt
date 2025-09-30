@@ -8,6 +8,8 @@ Date: 2025.09.22
     - Increased range of allowed multiplier from 0.01=>1000 to 1e-10=>1e+10.
   Info:
     - Added data-utils as an optional dependency.
+  Locale:
+    - Adjusted locale slightly.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2024.11.16
