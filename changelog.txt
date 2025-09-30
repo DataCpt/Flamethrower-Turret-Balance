@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2025.09.22
+  Major Features:
+    - Added a setting to allow modifying all fluid turrets.
+  Features:
+    - Changed the consumption mulitplier setting to be a multiplier to existing value, rather than a multiplier to the default unmodded value.
+    - Increased range of allowed multiplier from 0.01=>1000 to 1e-10=>1e+10.
+  Info:
+    - Added data-utils as an optional dependency.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2024.11.16
   Major Features:
